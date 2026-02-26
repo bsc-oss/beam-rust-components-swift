@@ -1,0 +1,9 @@
+[extend]
+# Extend the default config
+useDefault = true
+
+[allowlist]
+# Ignore specific paths (supports regex)
+paths = [
+    '''Package.swift''',
+]
