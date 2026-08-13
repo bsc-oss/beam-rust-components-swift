@@ -1,0 +1,2 @@
+# matrix-rust-components-swift
+BEAM fork of matrix-rust-components-swift (https://github.com/element-hq/matrix-rust-components-swift). This fork contains modifications done by Belgian Secure Communications (BSC) for BEAM.
